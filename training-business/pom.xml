@@ -35,6 +35,11 @@
 		</dependency>
 
 		<dependency>
+			<groupId>com.msclub.base</groupId>
+			<artifactId>msclub-swagger-starter</artifactId>
+		</dependency>
+
+		<dependency>
 			<groupId>com.msclub.training</groupId>
 			<artifactId>training-web-stater</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
